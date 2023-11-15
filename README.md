@@ -20,4 +20,4 @@ This is a simple Library Management System implemented in C language, utilizing 
 To compile the program, use the following command in your terminal:
 
 ```bash
-gcc library_management_system.c -o library_management_system
+gcc library_management_system.c -o Library_Management_System_Final
